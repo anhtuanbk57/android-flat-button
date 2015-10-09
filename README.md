@@ -9,7 +9,7 @@ Screenshot
 ----------
 ![](https://raw.githubusercontent.com/hoang8f/android-flat-button/master/screenshot/screenshot.gif)
 
-Including in your project
+Including in your project:
 -------------------------
 ###Using Maven
 FButton Library is pushed to [Maven Central](http://search.maven.org/#search|ga|1|fbutton), so you just need to add the following dependency to your `build.gradle`.
